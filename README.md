@@ -1,12 +1,50 @@
-# React + Vite
+# 🚀 React Учебный Проект — Домашние Задания
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Привет! 👋 Это мой учебный проект, в котором собраны все домашние задания по React.  
+Проект собран с помощью **Vite** и оформлен в виде отдельных компонентов.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Компоненты
 
-## Expanding the ESLint configuration
+| Название            | Описание                                        |
+| ------------------- | ----------------------------------------------- |
+| `CountdownTimer`    | Таймер обратного отсчёта                        |
+| `ImageGallery`      | Галерея изображений                             |
+| `ImageSlider`       | Слайдер картинок                                |
+| `PomodoroTimer`     | Помодоро таймер для продуктивности              |
+| `SimpleTimer`       | Простой таймер                                  |
+| `TextAreaWithLimit` | Текстовое поле с ограничением по символам       |
+| `DragAndDropList`   | Список с перетаскиванием элементов              |
+| `usePrevious`       | Кастомный хук для хранения предыдущего значения |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Установка и запуск
+
+1. Клонируй репозиторий:
+   ```bash
+   git clone https://github.com/SeregaYa13/start-react.git
+   cd start-react
+   npm install
+   npm run dev
+   ```
+
+🎯 Цель
+Этот проект помогает мне практиковаться в React, хуках, компонентах, управлении состоянием и работе с GitHub.
+Все задания разбиты по папкам и оформлены в виде переиспользуемых компонентов.
+
+📚 Технологии
+React + Vite
+
+JavaScript (ES6+)
+
+Хуки (useState, useEffect, useRef, usePrevious)
+
+CSS (inline и модули)
+
+Git + GitHub
+
+🧠 Автор
+Серёга Гомельский
+Проект создан в процессе обучения React 💻🔥
